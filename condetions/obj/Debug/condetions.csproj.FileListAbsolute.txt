@@ -1,0 +1,7 @@
+C:\Users\ToT\source\repos\condetions\condetions\bin\Debug\condetions.exe.config
+C:\Users\ToT\source\repos\condetions\condetions\bin\Debug\condetions.exe
+C:\Users\ToT\source\repos\condetions\condetions\bin\Debug\condetions.pdb
+C:\Users\ToT\source\repos\condetions\condetions\obj\Debug\condetions.csproj.AssemblyReference.cache
+C:\Users\ToT\source\repos\condetions\condetions\obj\Debug\condetions.csproj.CoreCompileInputs.cache
+C:\Users\ToT\source\repos\condetions\condetions\obj\Debug\condetions.exe
+C:\Users\ToT\source\repos\condetions\condetions\obj\Debug\condetions.pdb

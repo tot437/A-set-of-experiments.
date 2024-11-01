@@ -1,0 +1,10 @@
+C:\Users\ToT\source\repos\next\next\bin\Debug\next.exe.config
+C:\Users\ToT\source\repos\next\next\bin\Debug\next.exe
+C:\Users\ToT\source\repos\next\next\bin\Debug\next.pdb
+C:\Users\ToT\source\repos\next\next\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ToT\source\repos\next\next\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ToT\source\repos\next\next\obj\Debug\next.csproj.AssemblyReference.cache
+C:\Users\ToT\source\repos\next\next\obj\Debug\next.csproj.CoreCompileInputs.cache
+C:\Users\ToT\source\repos\next\next\obj\Debug\next.csproj.Up2Date
+C:\Users\ToT\source\repos\next\next\obj\Debug\next.exe
+C:\Users\ToT\source\repos\next\next\obj\Debug\next.pdb
